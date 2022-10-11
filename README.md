@@ -31,4 +31,12 @@ Voici une image pour mieux comprendre :
 ![banana](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/bananaPict.png)
 
 On peut distinguer 4 parties :  
-![banana_separe](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/bananaPictPart.png)
+![banana_separe](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/bananaPictPart.png)  
+- La première partie (à gauche) est la partie de configuration des périphériques audio **PHYSIQUES** (casque, enceintes, etc.)  
+- La deuxième partie (au milieu) est la partie de configuration des périphériques audio **VIRTUELLES** (VAIO (PC) et Aux VAIO (musique/truc que tu veux pourrais devoir envoyer en jeu))  
+- La troisième partie (à droite mais pas entièrement) est la partie de configuration des sorties audio **PHYSIQUES** (casque, enceintes, etc.)  
+- La quatrième partie (à droite) est la partie de configuration des sorties audio **VIRTUELLES** (VAIO (sortie stream), Aux VAIO (sortie jeu, team speak, etc.))
+
+### Configuration des périphériques audio physiques
+
+Pour ajouter le micro, il faut cliquer sur `Select Input Device` et sélectionner le micro (je crois que tu as une focusrite donc le périphérique devrait se nommer comme ça).
