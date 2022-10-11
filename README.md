@@ -27,5 +27,8 @@ Voicemeeter Banana nous offre deux sortie virtuelle (VAIO et Aux VAIO), on peut 
 - VAIO est la sortie principale (stream)
 - Aux VAIO est la sortie secondaire (jeu, team speak, etc.)
 
-Sur l'image ci-dessous : 
-<!-- ![image](https://user-images.githubusercontent.com/76880977/103483000-1b2b4a80-4de5-11eb-9b8a-1d2b8b8b2b8b.png) -->
+Voici une image pour mieux comprendre :  
+![banana](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/bananaPict.png)
+
+On peut distinguer 4 parties :  
+![banana_separe](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/bananaPictPart.png)
