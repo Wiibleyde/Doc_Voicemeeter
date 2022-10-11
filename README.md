@@ -50,3 +50,10 @@ Ces boutons renvoient à la partie de configuration des sorties audio physiques 
 - Le bouton B1 permet de renvoyer le son vers la première sortie virtuelle (VAIO : stream)
 - Le bouton B2 permet de renvoyer le son vers la deuxième sortie virtuelle (Aux VAIO : jeu, team speak)
 
+### Configuration de la sortie pc
+
+Pour que voicemeeter s'occupe du son du pc, il faut simplement sélectionner dans Windows le périphérique `Voicemeeter VAIO` comme périphérique.
+
+### Configuration de la sortie de logiciel
+
+Pour que voicemeeter s'occupe du son d'un logiciel et l'envoie sur la sortie virtuelle 2, il faut sélectionner dans le logiciel le périphérique `Voicemeeter Aux VAIO` comme périphérique dans le mélangeur de son de Windows.
