@@ -40,3 +40,13 @@ On peut distinguer 4 parties :
 ### Configuration des périphériques audio physiques
 
 Pour ajouter le micro, il faut cliquer sur `Select Input Device` et sélectionner le micro (je crois que tu as une focusrite donc le périphérique devrait se nommer comme ça).
+
+Pour le renvoyer dans le jeu il faut cliquer sur les boutons en dessous :   
+![banana_micro](https://raw.githubusercontent.com/Wiibleyde/Doc_Voicemeeter/main/assets/Sorties.png)  
+Ces boutons renvoient à la partie de configuration des sorties audio physiques et virtuelles. Par exemple :
+- Le bouton `A1` renvoie à la partie de configuration des sorties audio physiques et virtuelles, et plus précisément à la sortie `A1` (casque)
+- Le bouton `A2` renvoie à la partie de configuration des sorties audio physiques et virtuelles, et plus précisément à la sortie `A2` (Ce que tu veux)
+- ...
+- Le bouton B1 permet de renvoyer le son vers la première sortie virtuelle (VAIO : stream)
+- Le bouton B2 permet de renvoyer le son vers la deuxième sortie virtuelle (Aux VAIO : jeu, team speak)
+
